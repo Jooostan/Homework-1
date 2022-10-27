@@ -1,4 +1,3 @@
-# Homework-1
 # Homework-1-Craft-a-Scene
 ## 1 Paragraph description of your scene that answers these questions:
 ### - What is your scene?
